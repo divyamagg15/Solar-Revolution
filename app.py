@@ -69,6 +69,7 @@ THEME       = dict(plot_bgcolor="#161b27", paper_bgcolor="#1a1f35", font_color="
                    colorway=["#ffd200","#64ffda","#f7971e","#a78bfa","#f472b6","#38bdf8","#34d399","#fb923c"])
 _AXIS       = dict(gridcolor="#2e3555", linecolor="#2e3555")
 SOLAR_SCALE = ["#0d1117","#1a1f35","#f7971e","#ffd200"]
+COOL_SCALE  = ["#0d1117","#1a1f35","#38bdf8","#64ffda"]
 CAT_COLORS  = ["#ffd200","#64ffda","#f7971e","#a78bfa","#f472b6","#38bdf8","#34d399","#fb923c"]
 
 def _t(fig, height=None, xaxis_kw=None, yaxis_kw=None, **extra):
